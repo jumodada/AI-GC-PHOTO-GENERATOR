@@ -1,0 +1,8 @@
+{
+  "shop": "1",
+  "room": "A",
+  "token": "aaa",
+  "wsUrl": "ws://ai.huajiankongjian.com:8090/ws",
+  "apiUrl": "https://ai.huajiankongjian.com/api",
+  "streamUrl": "http://47.104.92.121:8001"
+}
